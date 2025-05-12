@@ -6,6 +6,11 @@ This is a modular Java EE 10 application demonstrating the use of **CDI (Context
 
 ---
 
+## 📽️ Demo Video
+[![Java CDI Project Demo](https://github.com/chamikathereal/Java-CDI/blob/main/Java-CDI.png)](https://youtu.be/vRiH08mAg28)
+
+---
+
 ## 🧩 Modules
 
 ### 1. CDIModule (`CDIModule`)
