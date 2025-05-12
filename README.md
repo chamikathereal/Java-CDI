@@ -1,5 +1,3 @@
-
-
 # 🚀 Java-CDI (Contexts and Dependency Injection)
 
 ### Overview
